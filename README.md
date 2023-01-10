@@ -23,7 +23,7 @@
 ### :man_technologist: About Me :
 
 I am a fullstack developer from Nigeria. 
-- I build Flask API with python.
+- I build RESTful API with python.
 - Currently trying my hands out on Reactjs
 - I enjoy solving problems through automation.
 - Interested in Data Analysis.- 
