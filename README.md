@@ -1,51 +1,58 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="https://linkedin.com/in/araoye-abraham-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <!-- <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> -->
-  <a href="https://twitter.com/Abgikcodez">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a><br/>
-  <img src="https://komarev.com/ghpvc/?username=abrokinla&style=flat-square&color=blue" alt=""/>
-</div>
 </div>
 
 <div align="center">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300">
+  <h2>About Me</h2>
+  <p>I am a fullstack developer from Nigeria. I build RESTful APIs with Python and I am currently trying my hands out on React.js. I enjoy solving problems through automation and I am interested in Data Analysis and AI. In my free time, I am working on personal projects.</p>
+  <p>How to reach me:</p>
+  <ul>
+    <li><a href="https://linkedin.com/in/araoye-abraham-dev">LinkedIn</a></li>
+    <li><a href="https://twitter.com/Abgikcodez">Twitter</a></li>
+  </ul>
 </div>
 
----
-
-### :man_technologist: About Me :
-
-I am a fullstack developer from Nigeria. 
-- I build RESTful API with python.
-- Currently trying my hands out on Reactjs
-- I enjoy solving problems through automation.
-- Interested in Data Analysis.- 
-- I hope to know more about AI.
-- In my free time, I am working on personal projects.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/araoye-abraham-dev)[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Abgikcodez)
-
----
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<div align="center">
+  <h2>Languages and Tools</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Language/Tool</th>
+        <th>Level</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>HTML5</td>
+        <td>Expert</td>
+      </tr>
+      <tr>
+        <td>CSS3</td>
+        <td>Expert</td>
+      </tr>
+      <tr>
+        <td>JavaScript</td>
+        <td>Expert</td>
+      </tr>
+      <tr>
+        <td>React.js</td>
+        <td>Intermediate</td>
+      </tr>
+      <tr>
+        <td>AWS</td>
+        <td>Intermediate</td>
+      </tr>
+      <tr>
+        <td>Git</td>
+        <td>Expert</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
----
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abrokinla&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrokinla)](https://github.com/anuraghazra/github-readme-stats)
-     
+<div align="center">
+  <h2>My Stats</h2>
+  <a href="http://github-readme-streak-stats.herokuapp.com?user=abrokinla&theme=dark&background=000000">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=abrokinla&theme=dark&background=000000" />
+  </a>
+</div>
