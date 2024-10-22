@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <div> 
-    <pre font-size="10px" overflow-wrap="break-word" white-space="pre-wrap" max-width="100%" line-height="1.1">
+  <pre style="font-family: monospace; font-size: 8px;">
    ###    ########     ###     #######  ##    ## ########       ###              ###    ########  ########     ###    ##     ##    ###    ##     ## 
   ## ##   ##     ##   ## ##   ##     ##  ##  ##  ##            ## ##            ## ##   ##     ## ##     ##   ## ##   ##     ##   ## ##   ###   ### 
  ##   ##  ##     ##  ##   ##  ##     ##   ####   ##           ##   ##          ##   ##  ##     ## ##     ##  ##   ##  ##     ##  ##   ##  #### #### 
@@ -8,9 +8,9 @@
 ######### ##   ##   ######### ##     ##    ##    ##          #########        ######### ##     ## ##   ##   ######### ##     ## ######### ##     ## 
 ##     ## ##    ##  ##     ## ##     ##    ##    ##          ##     ## ###    ##     ## ##     ## ##    ##  ##     ## ##     ## ##     ## ##     ## 
 ##     ## ##     ## ##     ##  #######     ##    ########    ##     ## ###    ##     ## ########  ##     ## ##     ## ##     ## ##     ## ##     ## 
-
   </pre>
-  </div>
+</div>
+
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://linkedin.com/in/araoye-abraham-dev">
