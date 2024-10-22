@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <div> 
-    <pre style="font-size: 12px; overflow-wrap: break-word; white-space: pre-wrap; max-width: 100%; line-height: 1.1;">
+    <pre font-size="10px" overflow-wrap="break-word" white-space="pre-wrap" max-width="100%" line-height="1.1">
    ###    ########     ###     #######  ##    ## ########       ###              ###    ########  ########     ###    ##     ##    ###    ##     ## 
   ## ##   ##     ##   ## ##   ##     ##  ##  ##  ##            ## ##            ## ##   ##     ## ##     ##   ## ##   ##     ##   ## ##   ###   ### 
  ##   ##  ##     ##  ##   ##  ##     ##   ####   ##           ##   ##          ##   ##  ##     ## ##     ##  ##   ##  ##     ##  ##   ##  #### #### 
