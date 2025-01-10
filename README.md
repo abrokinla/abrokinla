@@ -68,7 +68,7 @@ I regularly publish articles analyzing trends and insights in various datasets. 
 - **Adidas Sales Dashboard**: Visualized performance data using Power BI.  
 - **Warehouse and Retail Sales Analysis**: Insights derived from a monthly sales dataset.  
 
-Find my latest articles [here](https://medium.com/@abrokinla/unlocking-sales-insight-a-deep-dive-into-2020-warehouse-retail-trends-4b919eea0791) or connect with me to discuss data and tech!
+Find my latest articles [here](https://medium.com/@abrokinla/unlocking-sales-insights-a-comprehensive-analysis-of-warehouse-and-retail-data-d581ba5a62c0) or connect with me to discuss data and tech!
 
 ---
 
