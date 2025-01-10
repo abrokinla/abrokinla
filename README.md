@@ -28,9 +28,10 @@
 ### :man_technologist: About Me :
 
 I am a **fullstack developer and data scientist/analyst** from Nigeria.  
-- I build RESTful APIs with Python and Flask.  
+- I build RESTful APIs with Python using Flask and Django.  
 - I am proficient in React, Next.js, and Tailwind CSS for frontend development.
-- I enjoy **solving problems through automation** and data-driven insights.  
+- I enjoy **solving problems through automation**
+- I excel at extracting insights from data.  
 - Passionate about **data science** and actively exploring **AI and machine learning**.  
 - In my free time, I work on **personal projects** and publish articles about data analytics.  
 - :mailbox: How to reach me:  
