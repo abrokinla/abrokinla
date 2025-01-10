@@ -65,7 +65,6 @@ I am a **fullstack developer and data scientist/analyst** from Nigeria.
 ### :books: Articles and Insights :
 
 I regularly publish articles analyzing trends and insights in various datasets. Here are some topics I've explored:  
-- **Impact of COVID on Sales**: A deep dive into retail trends during and after COVID-19.  
 - **Adidas Sales Dashboard**: Visualized performance data using Power BI.  
 - **Warehouse and Retail Sales Analysis**: Insights derived from a monthly sales dataset.  
 
