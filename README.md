@@ -65,8 +65,8 @@ I am a **fullstack developer and data scientist/analyst** from Nigeria.
 ### :books: Articles and Insights :
 
 I regularly publish articles analyzing trends and insights in various datasets. Here are some topics I've explored:  
-- **Adidas Sales Dashboard**: Visualized performance data using Power BI.  
-- **Warehouse and Retail Sales Analysis**: Insights derived from a monthly sales dataset.  
+- **Adidas Sales Dashboard**: Visualized performance data using Excel.[here](https://drive.google.com/drive/folders/1Fv0rjRqqEmDH8REa-Au83HZ9DLr2Lug9?usp=drive_link)
+- **Warehouse and Retail Sales Analysis**: Insights derived from a monthly sales dataset.[here](https://drive.google.com/file/d/1zZF0lqZU4QeTlIYX3cxtJWjam5HYsM4b/view?usp=drive_link) 
 
 Find my latest articles [here](https://medium.com/@abrokinla/unlocking-sales-insights-a-comprehensive-analysis-of-warehouse-and-retail-data-d581ba5a62c0) or connect with me to discuss data and tech!
 
