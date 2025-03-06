@@ -73,6 +73,6 @@ Find my latest articles [here](https://medium.com/@abrokinla/unlocking-sales-ins
 ---
 
 ### :fire: My Stats :
-
+![Araoye's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrokinla&show_icons=true&theme=dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abrokinla&theme=dark&background=000000)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrokinla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
